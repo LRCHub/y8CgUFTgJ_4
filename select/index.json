@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大盛り無料なんだから大盛り頼め／重音テト＆初音ミク",
+  "base_artist": "かてらざわ",
+  "createdAt": "2025-12-19T07:25:25.595109Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大盛り無料なんだから大盛り頼め (feat. 重音テト & 初音ミク)",
+      "artist": "かてらざわ",
+      "has_synced": false,
+      "path": "select/pl_01_大盛り無料なんだから大盛り頼め_(feat._重音テト_&_初音ミク)_かてらざわ.txt"
+    }
+  ]
+}
